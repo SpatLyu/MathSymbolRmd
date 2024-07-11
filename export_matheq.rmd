@@ -1,0 +1,17 @@
+---
+output: word_document
+# output: latex_document
+---
+
+$$
+\begin{equation}
+G_i^* = \frac{\sum_{j = 1}^{m} \chi_j w_{i,j} - \overline{X} \sum_{j=1}^{m} w_{i,j}}{S \times \sqrt{\left[{m \sum_{j=1}^m w_{i,j}^2 - (\sum_{j = 1}^{m} w_{i,j})^2 }\right] / (m - 1)}}
+\end{equation}
+$$
+
+
+$$
+\begin{equation}
+C = \sqrt{\left[{1 - \frac{\sum_{i>j,j=2}^n \lvert{U_i - U_j}\rvert}{\sum_{m=1}^{n-1} m}}\right] \times (\prod_{i=1}^{n-1} U_i)^{\frac{1}{n-1}}}
+\end{equation}
+$$
