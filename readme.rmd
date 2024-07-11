@@ -2,10 +2,7 @@
 title: "Mathematical symbols and expressions in rmarkdown"
 author: "Wenbo Lv"
 date: "`r Sys.Date()`"
-output: 
-  prettydoc::html_pretty:
-    theme: tactile
-    highlight: github
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
