@@ -1,7 +1,3 @@
-Mathematical symbols and expressions in rmarkdown
-================
-Wenbo Lv
-2024-07-11
 
 ## 希腊字母
 

@@ -1,7 +1,4 @@
 ---
-title: "Mathematical symbols and expressions in rmarkdown"
-author: "Wenbo Lv"
-date: "`r Sys.Date()`"
 output: github_document
 ---
 
